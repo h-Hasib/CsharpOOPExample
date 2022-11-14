@@ -1,0 +1,15 @@
+E:\CODEs\C#_Projects\CsharpOOP.Associativity\bin\Debug\net6.0\CsharpOOP.Associativity.exe
+E:\CODEs\C#_Projects\CsharpOOP.Associativity\bin\Debug\net6.0\CsharpOOP.Associativity.deps.json
+E:\CODEs\C#_Projects\CsharpOOP.Associativity\bin\Debug\net6.0\CsharpOOP.Associativity.runtimeconfig.json
+E:\CODEs\C#_Projects\CsharpOOP.Associativity\bin\Debug\net6.0\CsharpOOP.Associativity.dll
+E:\CODEs\C#_Projects\CsharpOOP.Associativity\bin\Debug\net6.0\CsharpOOP.Associativity.pdb
+E:\CODEs\C#_Projects\CsharpOOP.Associativity\obj\Debug\net6.0\CsharpOOP.Associativity.csproj.AssemblyReference.cache
+E:\CODEs\C#_Projects\CsharpOOP.Associativity\obj\Debug\net6.0\CsharpOOP.Associativity.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODEs\C#_Projects\CsharpOOP.Associativity\obj\Debug\net6.0\CsharpOOP.Associativity.AssemblyInfoInputs.cache
+E:\CODEs\C#_Projects\CsharpOOP.Associativity\obj\Debug\net6.0\CsharpOOP.Associativity.AssemblyInfo.cs
+E:\CODEs\C#_Projects\CsharpOOP.Associativity\obj\Debug\net6.0\CsharpOOP.Associativity.csproj.CoreCompileInputs.cache
+E:\CODEs\C#_Projects\CsharpOOP.Associativity\obj\Debug\net6.0\CsharpOOP.Associativity.dll
+E:\CODEs\C#_Projects\CsharpOOP.Associativity\obj\Debug\net6.0\refint\CsharpOOP.Associativity.dll
+E:\CODEs\C#_Projects\CsharpOOP.Associativity\obj\Debug\net6.0\CsharpOOP.Associativity.pdb
+E:\CODEs\C#_Projects\CsharpOOP.Associativity\obj\Debug\net6.0\CsharpOOP.Associativity.genruntimeconfig.cache
+E:\CODEs\C#_Projects\CsharpOOP.Associativity\obj\Debug\net6.0\ref\CsharpOOP.Associativity.dll

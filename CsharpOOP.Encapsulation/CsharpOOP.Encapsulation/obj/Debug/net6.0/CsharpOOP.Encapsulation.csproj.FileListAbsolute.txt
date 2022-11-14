@@ -1,0 +1,15 @@
+E:\CODEs\C#_Projects\CsharpOOPExample\bin\Debug\net6.0\CsharpOOP.Encapsulation.exe
+E:\CODEs\C#_Projects\CsharpOOPExample\bin\Debug\net6.0\CsharpOOP.Encapsulation.deps.json
+E:\CODEs\C#_Projects\CsharpOOPExample\bin\Debug\net6.0\CsharpOOP.Encapsulation.runtimeconfig.json
+E:\CODEs\C#_Projects\CsharpOOPExample\bin\Debug\net6.0\CsharpOOP.Encapsulation.dll
+E:\CODEs\C#_Projects\CsharpOOPExample\bin\Debug\net6.0\CsharpOOP.Encapsulation.pdb
+E:\CODEs\C#_Projects\CsharpOOPExample\obj\Debug\net6.0\CsharpOOP.Encapsulation.csproj.AssemblyReference.cache
+E:\CODEs\C#_Projects\CsharpOOPExample\obj\Debug\net6.0\CsharpOOP.Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODEs\C#_Projects\CsharpOOPExample\obj\Debug\net6.0\CsharpOOP.Encapsulation.AssemblyInfoInputs.cache
+E:\CODEs\C#_Projects\CsharpOOPExample\obj\Debug\net6.0\CsharpOOP.Encapsulation.AssemblyInfo.cs
+E:\CODEs\C#_Projects\CsharpOOPExample\obj\Debug\net6.0\CsharpOOP.Encapsulation.csproj.CoreCompileInputs.cache
+E:\CODEs\C#_Projects\CsharpOOPExample\obj\Debug\net6.0\CsharpOOP.Encapsulation.dll
+E:\CODEs\C#_Projects\CsharpOOPExample\obj\Debug\net6.0\refint\CsharpOOP.Encapsulation.dll
+E:\CODEs\C#_Projects\CsharpOOPExample\obj\Debug\net6.0\CsharpOOP.Encapsulation.pdb
+E:\CODEs\C#_Projects\CsharpOOPExample\obj\Debug\net6.0\CsharpOOP.Encapsulation.genruntimeconfig.cache
+E:\CODEs\C#_Projects\CsharpOOPExample\obj\Debug\net6.0\ref\CsharpOOP.Encapsulation.dll

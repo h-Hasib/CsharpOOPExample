@@ -1,0 +1,13 @@
+Encapsulation
+      Association  (has a relation)
+
+Inheritance (Is A relation)
+	Up-Casting: base class reference -> child object,
+		    but limited(only parent class elements) accessibility
+		Animal anAnimal = new Eagle()
+	Down-Casting: child class reference -> base object
+        	Eagle anEagle = (Eagle)anAnimal;
+
+	polymorphism: 
+	runtime : virtual-override
+	static/compile-time : overloading

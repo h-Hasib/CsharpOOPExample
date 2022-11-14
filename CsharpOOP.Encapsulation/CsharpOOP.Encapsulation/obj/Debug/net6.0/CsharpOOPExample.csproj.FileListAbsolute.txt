@@ -1,0 +1,15 @@
+E:\CODEs\C#_Projects\CsharpOOPExample\bin\Debug\net6.0\CsharpOOPExample.exe
+E:\CODEs\C#_Projects\CsharpOOPExample\bin\Debug\net6.0\CsharpOOPExample.deps.json
+E:\CODEs\C#_Projects\CsharpOOPExample\bin\Debug\net6.0\CsharpOOPExample.runtimeconfig.json
+E:\CODEs\C#_Projects\CsharpOOPExample\bin\Debug\net6.0\CsharpOOPExample.dll
+E:\CODEs\C#_Projects\CsharpOOPExample\bin\Debug\net6.0\CsharpOOPExample.pdb
+E:\CODEs\C#_Projects\CsharpOOPExample\obj\Debug\net6.0\CsharpOOPExample.csproj.AssemblyReference.cache
+E:\CODEs\C#_Projects\CsharpOOPExample\obj\Debug\net6.0\CsharpOOPExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODEs\C#_Projects\CsharpOOPExample\obj\Debug\net6.0\CsharpOOPExample.AssemblyInfoInputs.cache
+E:\CODEs\C#_Projects\CsharpOOPExample\obj\Debug\net6.0\CsharpOOPExample.AssemblyInfo.cs
+E:\CODEs\C#_Projects\CsharpOOPExample\obj\Debug\net6.0\CsharpOOPExample.csproj.CoreCompileInputs.cache
+E:\CODEs\C#_Projects\CsharpOOPExample\obj\Debug\net6.0\CsharpOOPExample.dll
+E:\CODEs\C#_Projects\CsharpOOPExample\obj\Debug\net6.0\refint\CsharpOOPExample.dll
+E:\CODEs\C#_Projects\CsharpOOPExample\obj\Debug\net6.0\CsharpOOPExample.pdb
+E:\CODEs\C#_Projects\CsharpOOPExample\obj\Debug\net6.0\CsharpOOPExample.genruntimeconfig.cache
+E:\CODEs\C#_Projects\CsharpOOPExample\obj\Debug\net6.0\ref\CsharpOOPExample.dll

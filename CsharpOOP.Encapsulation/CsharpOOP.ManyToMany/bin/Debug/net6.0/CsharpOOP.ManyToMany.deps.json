@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CsharpOOP.ManyToMany/1.0.0": {
+        "runtime": {
+          "CsharpOOP.ManyToMany.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CsharpOOP.ManyToMany/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

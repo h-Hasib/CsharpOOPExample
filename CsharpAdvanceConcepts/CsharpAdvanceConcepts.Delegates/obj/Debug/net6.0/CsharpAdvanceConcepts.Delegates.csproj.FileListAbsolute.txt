@@ -1,0 +1,15 @@
+E:\Personal\Code\C#_Projects\CsharpAdvanceConcepts\CsharpAdvanceConcepts.Delegates\bin\Debug\net6.0\CsharpAdvanceConcepts.Delegates.exe
+E:\Personal\Code\C#_Projects\CsharpAdvanceConcepts\CsharpAdvanceConcepts.Delegates\bin\Debug\net6.0\CsharpAdvanceConcepts.Delegates.deps.json
+E:\Personal\Code\C#_Projects\CsharpAdvanceConcepts\CsharpAdvanceConcepts.Delegates\bin\Debug\net6.0\CsharpAdvanceConcepts.Delegates.runtimeconfig.json
+E:\Personal\Code\C#_Projects\CsharpAdvanceConcepts\CsharpAdvanceConcepts.Delegates\bin\Debug\net6.0\CsharpAdvanceConcepts.Delegates.dll
+E:\Personal\Code\C#_Projects\CsharpAdvanceConcepts\CsharpAdvanceConcepts.Delegates\bin\Debug\net6.0\CsharpAdvanceConcepts.Delegates.pdb
+E:\Personal\Code\C#_Projects\CsharpAdvanceConcepts\CsharpAdvanceConcepts.Delegates\obj\Debug\net6.0\CsharpAdvanceConcepts.Delegates.csproj.AssemblyReference.cache
+E:\Personal\Code\C#_Projects\CsharpAdvanceConcepts\CsharpAdvanceConcepts.Delegates\obj\Debug\net6.0\CsharpAdvanceConcepts.Delegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal\Code\C#_Projects\CsharpAdvanceConcepts\CsharpAdvanceConcepts.Delegates\obj\Debug\net6.0\CsharpAdvanceConcepts.Delegates.AssemblyInfoInputs.cache
+E:\Personal\Code\C#_Projects\CsharpAdvanceConcepts\CsharpAdvanceConcepts.Delegates\obj\Debug\net6.0\CsharpAdvanceConcepts.Delegates.AssemblyInfo.cs
+E:\Personal\Code\C#_Projects\CsharpAdvanceConcepts\CsharpAdvanceConcepts.Delegates\obj\Debug\net6.0\CsharpAdvanceConcepts.Delegates.csproj.CoreCompileInputs.cache
+E:\Personal\Code\C#_Projects\CsharpAdvanceConcepts\CsharpAdvanceConcepts.Delegates\obj\Debug\net6.0\CsharpAdvanceConcepts.Delegates.dll
+E:\Personal\Code\C#_Projects\CsharpAdvanceConcepts\CsharpAdvanceConcepts.Delegates\obj\Debug\net6.0\refint\CsharpAdvanceConcepts.Delegates.dll
+E:\Personal\Code\C#_Projects\CsharpAdvanceConcepts\CsharpAdvanceConcepts.Delegates\obj\Debug\net6.0\CsharpAdvanceConcepts.Delegates.pdb
+E:\Personal\Code\C#_Projects\CsharpAdvanceConcepts\CsharpAdvanceConcepts.Delegates\obj\Debug\net6.0\CsharpAdvanceConcepts.Delegates.genruntimeconfig.cache
+E:\Personal\Code\C#_Projects\CsharpAdvanceConcepts\CsharpAdvanceConcepts.Delegates\obj\Debug\net6.0\ref\CsharpAdvanceConcepts.Delegates.dll
